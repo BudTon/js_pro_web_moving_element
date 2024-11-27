@@ -7,7 +7,6 @@ body {
   flex-direction: row;
   flex-wrap: wrap;
   margin: auto;
-
   height: 320px;
   width: 320px;
 }
@@ -23,4 +22,5 @@ body {
 
 .img-goblin {
   width: 100%;
+  /* background-image: url(../img/goblin.png); */
 }
