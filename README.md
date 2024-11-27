@@ -2,6 +2,8 @@
 
 ![CI](https://github.com/BudTon/js_pro_web_moving_element/actions/workflows/web.yml/badge.svg)
 
+https://budton.github.io/js_pro_web_moving_element/
+
 1. **Важно**: всё собираться через Webpack (включая картинки и стили) и выкладываться на Github Pages через Appveyor.
 2. В README.md размещён бейджик сборки и ссылка на Github Pages
 
