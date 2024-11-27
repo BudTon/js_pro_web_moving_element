@@ -1,0 +1,1 @@
+body{color:#999}.game-field{display:flex;flex-direction:row;flex-wrap:wrap;height:320px;margin:auto;width:320px}.goblin-burrow{background:gray;border:3px solid #2e9aff;box-sizing:border-box;height:80px;list-style-type:none;width:80px}.img-goblin{width:100%}
